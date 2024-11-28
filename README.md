@@ -20,7 +20,7 @@ particularly in mobile applications.
 
 ## Skills & Technologies:
 
-* **Languages:** Python, C++, Swift, Objective-C  
+* **Languages:** Python, C++, Swift  
 * **Frameworks & Libraries:** SwiftUI, UIKit, CoreML, TensorFlow, OpenCV  
 * **Tools:** Xcode, Jupyter Notebooks, Git, Docker  
 
